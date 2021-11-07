@@ -1,3 +1,3 @@
-Attempt at solving the 7x7 Gridworld problem with randomly initialized positions of all objects.
+Attempt at solving the 7x7 Gridworld problem with randomly initialized positions of all objects. Other NxN Gridworld problems could be solved by adjusting the 'dimen' variable denoting the Nth dimension.
 
-NOTE: Most (if not all) the source code comes from the official [Deep Reinforcement Learning in Action repo](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction).
+NOTE: Most (if not all) the source code comes from the official [Deep Reinforcement Learning in Action repo](https://github.com/DeepReinforcementLearning/DeepReinforcementLearningInAction). In addition to this, a few changes were made so as to generalize the solution to multiple dimensions by using [Convolutions as shown by Google's DeepMind](https://storage.googleapis.com/deepmind-data/assets/papers/DeepMindNature14236Paper.pdf).
